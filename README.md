@@ -9,6 +9,7 @@
 <a href="https://www.figma.com/files/project/111460883/Team-project?fuid=1294091732711267271">Link de figma </a>
 
 <h2> punto 2: diseño en HTML </h2>
+<img src="./public/images/punto2.png" alt="punto2">
 
 <h2> punto 3: diseño en CSS </h2>
 
