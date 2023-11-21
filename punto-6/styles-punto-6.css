@@ -1,0 +1,19 @@
+body {
+    background-color: gray;
+}
+
+.link1 {
+
+    padding: 20px;
+    color: yellow;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.link2 {
+
+    padding: 20px;
+    color: violet;
+    font-size: 40px;
+    cursor: pointer;
+}

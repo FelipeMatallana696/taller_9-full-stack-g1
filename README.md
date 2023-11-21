@@ -22,7 +22,7 @@
 <img src="./public/images/punto5.png" alt="punto5">
 
 <h2> punto 6: Links </h2>
-
+<img src="./public/images/punto6.png" alt="punto5">
 <h2> punto 7 y 8 : Navegación </h2>
 
 <h2> punto 9: Tabla </h2>
