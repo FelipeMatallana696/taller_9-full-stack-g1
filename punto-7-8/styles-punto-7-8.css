@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(50, 205, 138);
+}
+
+header {
+    background-color: aquamarine;
+    margin: 0px 100px;
+}
+
+
+.header__navigator {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+ul {
+    display: flex;
+    gap: 400px;
+    list-style: none;
+}
+
+#inicio {
+    background-color: rgba(0, 0, 255, 0.696);
+    padding: 15px 25px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+#quienes-somos {
+    background-color: rgba(28, 221, 17, 0.858);
+    padding: 15px 25px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+#contacto {
+
+    background-color: rgb(244, 14, 244);
+    padding: 15px 25px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
