@@ -1,0 +1,41 @@
+html {
+    display: flex;
+    height: 100%;
+    background: plum;
+    justify-content: center;
+}
+
+header {
+    text-align: center;
+}
+
+table {
+    border-color: black;
+    text-align: center;
+}
+
+.table1 {
+    border: solid;
+    border-color: rgb(79, 1, 79);
+}
+
+th {
+    color: purple;
+}
+
+.first_Row {
+    text-align: center;
+    border: solid 1px;
+}
+
+.second_Row {
+    text-align: center;
+    border: solid 1px;
+
+}
+
+td {
+    border: solid 0.5px;
+    border-color: rgb(79, 1, 79);
+    color: black;
+}

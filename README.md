@@ -27,3 +27,4 @@
 <img src="./public/images/punto7-8.png" alt="punto5">
 
 <h2> punto 9: Tabla </h2>
+<img src="./public/images/punto9.png" alt="punto5">
