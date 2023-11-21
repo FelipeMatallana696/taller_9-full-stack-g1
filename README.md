@@ -4,6 +4,7 @@
 <p>Profesor: Cristian Patiño </p>
 
 <h2>link de la pagina web</h2>
+<a href="https://felipematallana696.github.io/taller_9-full-stack-g1/">Link de Pagina web </a>
 
 <h2>link de figma</h2>
 <a href="https://www.figma.com/files/project/111460883/Team-project?fuid=1294091732711267271">Link de figma </a>
