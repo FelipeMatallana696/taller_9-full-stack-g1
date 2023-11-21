@@ -1,0 +1,27 @@
+body {
+    background-color: bisque;
+}
+
+.first {
+    color: green;
+}
+
+.second {
+    color: red;
+}
+
+.third {
+    text-decoration: overline underline;
+}
+
+.stronger {
+    font-size: 40px;
+}
+
+.color_blue {
+    color: blue;
+}
+
+.color_red {
+    color: red;
+}
