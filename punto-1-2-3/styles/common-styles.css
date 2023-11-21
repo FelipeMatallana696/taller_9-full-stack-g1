@@ -1,3 +1,7 @@
+body {
+    margin: 0px;
+}
+
 a {
     font-family: 'Jost';
 }
@@ -13,6 +17,7 @@ button {
 p {
     font-family: "Jost";
     font-size: 14px;
+    color: #454868;
 }
 
 .button--orange {
